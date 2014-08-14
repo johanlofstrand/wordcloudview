@@ -4,7 +4,10 @@
   "description": "A view for the wordcloud app",
   "main": "web.js",
   "dependencies": {
+    "body-parser": "^1.6.3",
+    "ejs": "~0.8.5",
     "express": "^4.8.2",
+    "json": "^9.0.1",
     "logger": "0.0.1"
   },
   "devDependencies": {},
