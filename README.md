@@ -1,3 +1,6 @@
+Wordcloudview
+=============
+
 Wordcloudview is the client part of an app for generating a wordcloud from a twitter flow. 
 
 The client uses two independent micro services in order to retrieve it's data -shown in the picture below.
